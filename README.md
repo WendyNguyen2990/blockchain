@@ -29,4 +29,4 @@ blockchain-betting/
 - Ví Metamask (đã kết nối Sepolia testnet, có ETH testnet)
 - Node.js >= 16
 
-## Hướng dẫn chi tiết sẽ có trong từng thư mục! 
+## Hướng dẫn chi tiết sẽ có trong từng thư mục! # FBBetting
